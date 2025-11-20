@@ -165,4 +165,3 @@ function resetGame() {
     ]
     gameStart();
 };
-running = false;
